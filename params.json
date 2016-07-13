@@ -1,6 +1,0 @@
-{
-  "name": "Konsumer",
-  "tagline": "So you wanna know more about konsumer?",
-  "body": "# konsumer\r\n\r\nThis is my public-facing personal project site.\r\n\r\n## personal\r\n\r\nThese are useful libraries, tools, and applications I have made.\r\n\r\n---\r\n\r\n## brainbang\r\n\r\nCode related to messing with the brain through various hacking techniques.\r\n\r\n---\r\n\r\n## authonice\r\n\r\nA multi-platform, multi-language, multi-framework JWT-based authentication library.\r\n\r\n---\r\n",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}

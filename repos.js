@@ -14,7 +14,6 @@
 
   function showRepo (repo) {
     const section = repo.fork ? 'contrib' : repo.owner.login
-    console.log(section)
     document.querySelector(`#gh_${section} ul`).innerHTML += `
       <li>
         <a href="${repo.html_url}">${repo.name}</a> &middot

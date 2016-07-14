@@ -1,5 +1,4 @@
 ;(function () {
-  // TODO: polyfill this next-level 2015 stuff
   const names = [
     'konsumer',
     'brainbang',
